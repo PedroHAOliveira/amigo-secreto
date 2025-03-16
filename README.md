@@ -54,4 +54,4 @@ Sinta-se à vontade para contribuir! Para isso:
 
 ---
 
-💡 _Desenvolvido por Pedro Oliveira_
+💡 _Desenvolvido por Pedro Oliveira para o projeto Oracle Next Education_
